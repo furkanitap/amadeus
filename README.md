@@ -1,1 +1,1 @@
-Test Case for Amadeus
+Case Study for Amadeus
